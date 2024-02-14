@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryadhaka0027&label=Profile%20views&color=0e75b6&style=flat" alt="shauryadhaka0027" /> </p>
 
-- 🔭 I’m currently working on [Bitrix](https://bitrix24skd.netlify.app/)
+- 🔭 I’m currently working on Wayfair website
 
 - 🌱 I’m currently learning **React Native**
 
