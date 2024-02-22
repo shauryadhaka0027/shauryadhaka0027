@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Wayfair website
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [http://shaurya-dhaka-portfolio.netlify.app/](http://shaurya-dhaka-portfolio.netlify.app/)
 
